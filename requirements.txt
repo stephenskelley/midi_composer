@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+# https://github.com/salu133445/pypianoroll
+pypianoroll
+# https://github.com/salu133445/muspy
+muspy
+# https://github.com/dubreuia/visual_midi
+visual_midi
+# https://github.com/craffel/pretty-midi
+pretty_midi
+# https://github.com/vishnubob/python-midi
+python_midi
